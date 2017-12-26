@@ -1,0 +1,22 @@
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\bin\Debug\gunterRichTextBoxEditor.exe
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\bin\Debug\gunterRichTextBoxEditor.pdb
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.Author.resources
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.HelpTheme.resources
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.Home.resources
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.WelcomeUse.resources
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.exe
+D:\我的文档\Visual Studio 2008\Projects\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.pdb
+D:\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\ResolveAssemblyReference.cache
+D:\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.Author.resources
+D:\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.HelpTheme.resources
+D:\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.Home.resources
+D:\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.WelcomeUse.resources
+D:\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.csproj.GenerateResource.Cache
+D:\gunterNotePad\gunterRichTextBoxEditor\bin\Debug\gunterRichTextBoxEditor.exe
+D:\gunterNotePad\gunterRichTextBoxEditor\bin\Debug\gunterRichTextBoxEditor.pdb
+D:\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.Properties.Resources.resources
+D:\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.exe
+D:\gunterNotePad\gunterRichTextBoxEditor\obj\Debug\gunterRichTextBoxEditor.pdb
